@@ -2,7 +2,7 @@
 
 A simple, responsive login page built using HTML and CSS. This project demonstrates how to create a clean and user-friendly login form that adapts to different screen sizes, including desktops, tablets, and mobile devices.
 
-![Preview](screenshot.png)
+![Preview](Screenshot.png)
 
 ## How To View Website
 
