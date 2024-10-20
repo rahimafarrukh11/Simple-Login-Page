@@ -6,13 +6,13 @@ A simple, responsive login page built using HTML and CSS. This project demonstra
 
 ## Structure
 
-- ['index.html'](index.html): The main HTML file for the login page, containing the structure and content.
-- ['style.css'](style.css): The main CSS file for styling the login page, including layout, colors, and responsive design.
-- ['background.jpg'](background.jpg): An asthetic background image for the login page.
+- [`index.html`](index.html): The main HTML file for the login page, containing the structure and content.
+- [`style.css`](style.css): The main CSS file for styling the login page, including layout, colors, and responsive design.
+- [`background.jpg`](background.jpg): An asthetic background image for the login page.
 
 ## How To View Website
 
-To view the website, open ['index.html'](index.html) in your browser, ensuring it links to ['style.css'](style.css) and the background image ['background.jpg'](background.jpg), or use Visual Studio Code to run it.
+To view the website, open [`index.html`](index.html) in your browser, ensuring it links to [`style.css`](style.css) and the background image [`background.jpg`](background.jpg), or use Visual Studio Code to run it.
 
 ## Features
 
