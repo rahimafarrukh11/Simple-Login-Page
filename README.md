@@ -4,20 +4,20 @@ A simple, responsive login page built using HTML and CSS. This project demonstra
 
 ![Preview](Screenshot.png)
 
-## How To View Website
-
-To view the website, open ['index.html'](index.html) in your browser, ensuring it links to ['style.css'](style.css) and the background image ['background.jpg'](background.jpg), or use a local server like Live Server in Visual Studio Code to run it.
-
 ## Structure
 
-['index.html'](index.html): The main HTML file for the login page, containing the structure and content.
-['style.css'](style.css): The main CSS file for styling the login page, including layout, colors, and responsive design.
-['background.jpg'](background.jpg): An asthetic background image for the login page.
+- ['index.html'](index.html): The main HTML file for the login page, containing the structure and content.
+- ['style.css'](style.css): The main CSS file for styling the login page, including layout, colors, and responsive design.
+- ['background.jpg'](background.jpg): An asthetic background image for the login page.
+
+## How To View Website
+
+To view the website, open ['index.html'](index.html) in your browser, ensuring it links to ['style.css'](style.css) and the background image ['background.jpg'](background.jpg), or use Visual Studio Code to run it.
 
 ## Features
 
 - **Responsive Design**: The layout adjusts seamlessly to fit all screen sizes.
-- **Modern Appearance**: An asthetic background image..
+- **Modern Appearance**: An asthetic background image.
 - **Interactive Buttons**: Includes hover effects for the "Sign In" and "Sign Up" buttons.
 - **Forgot Password Option**: Users can easily find a link to reset their password.
 
@@ -25,6 +25,7 @@ To view the website, open ['index.html'](index.html) in your browser, ensuring i
 
 - **HTML**: For the structure of the page.
 - **CSS**: For styling and ensuring the page is responsive.
+- **Google Fonts**: For Poppins font style.
 - **Visual Studio Code**: For compiling the code.
 
 ## Future Improvements
@@ -36,4 +37,3 @@ To view the website, open ['index.html'](index.html) in your browser, ensuring i
 ## Feedback and Contributions
 
 Contributions are welcome! If you would like to improve the page, feel free to fork the repository and submit a pull request. Please ensure that your changes enhance the functionality or design of the page.
-
